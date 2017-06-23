@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/login.jsp=UTF-8
+encoding//src/com/zhidisoft/dao/BaseDao.java=gbk
+encoding//src/com/zhidisoft/entity/Industry.java=UTF-8
+encoding//src/com/zhidisoft/entity/TaxPayer.java=UTF-8
+encoding//src/com/zhidisoft/util/DBUtil.java=gbk
+encoding/<project>=UTF-8
